@@ -1,4 +1,4 @@
-import { Watch } from "./component/watch"
+import { Watch } from "./component/Watch"
 
 
 function App() {
