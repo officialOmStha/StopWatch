@@ -29,7 +29,7 @@ export const Watch = () => {
     }
 
     return (
-        <div className="text-center p-4 flex flex-col items-center justify-center h-[100vh] bg-cyan-600">
+        <div className="text-center p-4 flex flex-col items-center justify-center h-[100vh] bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
             <div className="flex flex-col items-center justify-center w-[80%] border-2 border-black rounded-3xl min-h-[400px]">
                 <h1 className='text-4xl text-gray-200'>Stop Watch</h1>
                 <div className="flex flex-col items-center justify-center w-full p-4">
